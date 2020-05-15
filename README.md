@@ -13,6 +13,8 @@
 ### Организация
 Файлы проименованы в следующем формате: {id спикера}.{id фразы}.mp4  Пример: 43.168.mp4
 Текст каждой фразы содержится в файле Фразы. 
+### Доступ
+Архив датасета можно скачать, перейдя по ссылке  на <a rel="dataset" href="https://yadi.sk/d/icN2L8qiE1kUJA"> Яндекс.Диск </a>
 ### Лицензия
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence"
 style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><span
